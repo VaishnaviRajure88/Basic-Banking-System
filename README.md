@@ -5,9 +5,9 @@
 
 ## INDEX
 - [Description](#Description)
+- [Requirements](#Requirements)
 - [Installation](#Installation)
-- [How To Run](#How_To_Run)
-- [Screenshots](#Screenshots)
+
 
 ## Description
 - This is a Web Development project for The Sparks Foundation GRIP Internship of April 2023.
@@ -23,8 +23,8 @@
 
 ## Installation
 - Install XAMPP on your device.
-- Download this project, rename the main folder from `BasicBankingSystem-main` to `BankByShivam`
-- Now place the `BankByShivam` folder in your XAMPP-->htdocs folder
+- Download this project, rename the main folder from `BasicBankingSystem-main` to `vaishnaviprograms`
+- Now place the `vaishnaviprograms` folder in your XAMPP-->htdocs folder
 
 ................
 
