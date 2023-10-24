@@ -13,7 +13,7 @@
 - This is a Web Development project for The Sparks Foundation GRIP Internship of April 2023.
 - The website in this project is also Responsive, it means it can run on any browser and also it is mobile/tablet compatible.
 - This project includes 2 main tables 'customer' and 'transaction' which contain their respective details.
-- I also have included all the images used in this project. (you can change them according to your preference)
+
 
 ## Requirements
 - This project can be edited on any IDE, I created it using Visual Studio Code (VS Code)
